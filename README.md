@@ -1,8 +1,7 @@
 # SSLMVC: Self-supervised label-driven multi-view collaborative clustering.
 
 
-Our work has been accepted by Neurocomputing. Or you can visit the online version:
-https://www.sciencedirect.com/science/article/pii/S0925231226018904
+Our work has been accepted by Neurocomputing. https://www.sciencedirect.com/science/article/pii/S0925231226018904
 
 ## Requirements
 
@@ -24,7 +23,17 @@ To train the model with default parameters:
 ```bash
 python train.py 
 ```
+After running, you will obtain running results similar to the ones shown below：
 
+```
+==================================================
+1 runs complete! Best results:
+ACC: 0.8943
+NMI: 0.8142
+ARI: 0.7870
+PUR: 0.8943
+==================================================
+```
 
 ## Citation
 
