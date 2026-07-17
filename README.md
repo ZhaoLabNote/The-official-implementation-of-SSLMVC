@@ -23,7 +23,7 @@ To train the model with default parameters:
 
 ```bash
 python train.py 
-`
+```
 
 
 ## Citation
